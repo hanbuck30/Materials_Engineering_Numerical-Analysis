@@ -26,23 +26,23 @@ Additionally, the notebook may require specific fonts for proper rendering of pl
 ```
 
 ## Usage
-1. Clone the repository:
+**1. Clone the repository:**
 
 ```bash
 git clone https://github.com/yourusername/ceramic-material-analysis.git
 cd ceramic-material-analysis
 ```
 
-2. Open the notebook:
+**2. Open the notebook:**
 ```bash
 jupyter notebook ceramic.ipynb
 ```
-3. Run the cells:
+**3. Run the cells:**
 Execute the cells in the notebook sequentially to perform the analysis. The notebook covers:
 - Setting input parameters for fiber and matrix tensile strengths.
 - Configuring initial conditions for concentration analysis.
 - Generating and visualizing signal data over time.
-- 
+  
 ## Notebook Contents
 - ** Material Strength Analysis:**
   - Input parameters such as fiber tensile strength, matrix tensile strength, and fiber volume fraction.
