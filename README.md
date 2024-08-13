@@ -44,15 +44,15 @@ Execute the cells in the notebook sequentially to perform the analysis. The note
 - Generating and visualizing signal data over time.
   
 ## Notebook Contents
-- ** Material Strength Analysis:**
+- ### Material Strength Analysis:
   - Input parameters such as fiber tensile strength, matrix tensile strength, and fiber volume fraction.
   - Visualization of the stress-strain behavior of the composite material.
     
-- **Signal Analysis:**
+- ### Signal Analysis:
 - Generation and plotting of random signal data over time.
 - Graphical representation of signal amplitude versus time.
   
-- **Graph Configuration:**
+- ### Graph Configuration:
   - Customization of plot fonts and display settings for better visualization.
     
 ## Contributing
