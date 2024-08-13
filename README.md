@@ -49,8 +49,8 @@ Execute the cells in the notebook sequentially to perform the analysis. The note
   - Visualization of the stress-strain behavior of the composite material.
     
 - ### Signal Analysis:
-- Generation and plotting of random signal data over time.
-- Graphical representation of signal amplitude versus time.
+  - Generation and plotting of random signal data over time.
+  - Graphical representation of signal amplitude versus time.
   
 - ### Graph Configuration:
   - Customization of plot fonts and display settings for better visualization.
