@@ -1,7 +1,4 @@
 # Materials_Engineering_Numerical-Analysis
-Materials_Engineering_Numerical Analysis
-# Ceramic Material Analysis
-
 This repository contains a Jupyter notebook (`ceramic.ipynb`) that focuses on the numerical analysis of ceramic materials. The notebook is designed for educational purposes, specifically within the field of Materials Engineering, and includes a variety of calculations and visualizations related to the properties of ceramic composites.
 
 ## Table of Contents
