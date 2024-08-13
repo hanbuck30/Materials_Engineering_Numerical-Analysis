@@ -37,7 +37,7 @@ cd ceramic-material-analysis
 ```bash
 jupyter notebook ceramic.ipynb
 ```
-**3. Run the cells:**
+**3. Run the cells:**"\n"
 Execute the cells in the notebook sequentially to perform the analysis. The notebook covers:
 - Setting input parameters for fiber and matrix tensile strengths.
 - Configuring initial conditions for concentration analysis.
